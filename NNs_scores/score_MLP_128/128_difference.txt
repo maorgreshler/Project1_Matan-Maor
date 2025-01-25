@@ -1,0 +1,32 @@
+Basic statistics:
+       delta_x_position  delta_y_position  delta_theta  delta_velocity  delta_yaw_angle  delta_yaw_rate  delta_slip_angle  delta_front_wheel  delta_back_wheel
+count       1000.000000       1000.000000  1000.000000     1000.000000      1000.000000     1000.000000       1000.000000        1000.000000       1000.000000
+mean          -0.000875          0.003493    -0.000027        0.000176         0.000216        0.000438          0.000061          -0.061803          0.007034
+std            0.021661          0.020406     0.000740        0.012951         0.001309        0.013899          0.010237           1.141043          0.706853
+min           -0.147267         -0.106897    -0.003049       -0.072519        -0.006748       -0.065598         -0.090324          -3.289581         -2.664699
+25%           -0.009128         -0.004314    -0.000329       -0.003639        -0.000271       -0.004274         -0.003168          -0.744700         -0.279027
+50%            0.000441          0.002524    -0.000020        0.001187         0.000182        0.000470          0.000003          -0.096965         -0.045465
+75%            0.008369          0.009867     0.000313        0.005687         0.000603        0.004741          0.003317           0.521044          0.168927
+max            0.100865          0.131310     0.002711        0.041899         0.006827        0.284698          0.129274           6.401415          3.560960
+
+Mean for each column:
+delta_x_position    -0.000875
+delta_y_position     0.003493
+delta_theta         -0.000027
+delta_velocity       0.000176
+delta_yaw_angle      0.000216
+delta_yaw_rate       0.000438
+delta_slip_angle     0.000061
+delta_front_wheel   -0.061803
+delta_back_wheel     0.007034
+
+Standard deviation for each column:
+delta_x_position     0.021661
+delta_y_position     0.020406
+delta_theta          0.000740
+delta_velocity       0.012951
+delta_yaw_angle      0.001309
+delta_yaw_rate       0.013899
+delta_slip_angle     0.010237
+delta_front_wheel    1.141043
+delta_back_wheel     0.706853
