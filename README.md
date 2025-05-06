@@ -2,7 +2,7 @@
 **Physics‑Informed Neural Networks for Vehicle Dynamics**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#license)  
-[![Colab Ready](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maorgreshler/Project1_Matan-Maor/blob/main/NN_shared_in_colab.ipynb)
 
 ---
 
