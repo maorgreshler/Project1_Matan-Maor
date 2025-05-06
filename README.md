@@ -1,4 +1,4 @@
-# Project1_Matan‑Maor &nbsp;🚗  
+# ProjectA_EE &nbsp;🚗  
 **Physics‑Informed Neural Networks for Vehicle Dynamics**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#license)  
